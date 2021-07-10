@@ -1,0 +1,35 @@
+body {
+	font-family: arial, sans-serif;
+}
+
+#search-form {
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+button {
+	margin-left: 20px;
+	margin-top: 10px;
+	background-color: green;
+	color: white;
+	border: none;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: #74b72e;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 100;
+	line-height: 28px;
+	margin: 20px;
+}
+
+p {
+	margin-left: 20px;
+	font-size: 20px;
+}
